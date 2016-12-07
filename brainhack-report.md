@@ -44,7 +44,7 @@ contrib: RCC and DJC wrote the software, DJC performed tests, and DJC and RCC wr
   
 bibliography: brainhack-report
 
-gigascience-ref: REFXXX
+gigascience-ref: \href{http://gigadb.org/dataset/100219}{doi:10.5524/100219}
 ...
 
 #Introduction
