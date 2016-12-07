@@ -17,7 +17,7 @@ author:
   email: daniel.clark@childmind.org
   affiliation: aff2
 
-affiliations: 
+affiliations:
 
 - id: aff1
   orgname: 'Computational Neuroimaging Lab, Center for Biomedical Imaging and Neuromodulation, Nathan Kline Institute for Psychiatric Research'
@@ -41,7 +41,7 @@ coi: None
 acknow: The authors would like to thank the organizers and attendees of Brainhack MX and the developers of AFNI. This project was funded in part by a Educational Research Grant from Amazon Web Services.
 
 contrib: RCC and DJC wrote the software, DJC performed tests, and DJC and RCC wrote the report.
-  
+
 bibliography: brainhack-report
 
 gigascience-ref: \href{http://gigadb.org/dataset/100219}{doi:10.5524/100219}
@@ -85,8 +85,8 @@ AFNI tools were developed for calculating lFCD and DC from functional neuroimagi
 \begin{figure}[h!]
   \includegraphics[width=.47\textwidth]{centrality_plot}
   \caption{\label{centfig}
-  Whole brain maps of binarized and weighted degree centrality calculated with a correlation threshold of $\rho\geq0.6$ (a-b) 
-  and sparsity threshold of 0.1\% (c-d) and binarized and weighted lFCD calculated with a correlation threshold of $\rho\geq0.6$ (e-f) 
+  Whole brain maps of binarized and weighted degree centrality calculated with a correlation threshold of $\rho\geq0.6$ (a-b)
+  and sparsity threshold of 0.1\% (c-d) and binarized and weighted lFCD calculated with a correlation threshold of $\rho\geq0.6$ (e-f)
   averaged across maps calculated the first resting state scan of the first scanning session for all 36 participants' data from the IBATRT data. }
 \end{figure}
 
